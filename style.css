@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+    
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+  }
+  
+  footer { 
+    background: #000;
+    height: 80px; 
+    padding-bottom: 50px;
+    color: #fff
+  }
+  
